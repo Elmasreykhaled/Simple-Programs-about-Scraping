@@ -1,4 +1,4 @@
-# Simple programs in scraping 
+# Simple programs about scraping 
 
 ### Install the requirements 
 
